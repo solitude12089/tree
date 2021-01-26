@@ -67,7 +67,7 @@
            
                
                     <button id="btnSave" class="btn btn-success">確定</button>
-                    <a class="btn btn-default" href="/home">取消</a>
+                    <a class="btn btn-default" href="/">取消</a>
       
     </div>
 
